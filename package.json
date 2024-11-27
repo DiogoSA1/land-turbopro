@@ -1,5 +1,6 @@
 {
-  "name": "turboproo",
+  "name": "land-turbopro",
+  "homepage": "https://DiogoSA1.github.io/land-turbopro",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -10,7 +10,7 @@ const App = () => {
       <div className="gradient__bg">
         <Navbar />
         <Header />
-        <WhatsAppButton phoneNumber="5599999999999" message="Olá! Gostaria de saber mais informações." />
+        <WhatsAppButton phoneNumber="551199746699" message="Olá! Gostaria de saber mais informações." />
       </div>
       {/* <Brand /> */}
       <WhatPRO />
