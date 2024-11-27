@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/land-turbopro/static/css/main.43d4e584.css",
+    "main.js": "/land-turbopro/static/js/main.d8d6d461.js",
+    "static/media/Prancheta_2.png": "/land-turbopro/static/media/Prancheta_2.5aff4b67a3ad21d1d0a1.png",
+    "static/media/Prancheta_4.png": "/land-turbopro/static/media/Prancheta_4.cb6e113114b85f92578e.png",
+    "static/media/Prancheta_7.png": "/land-turbopro/static/media/Prancheta_7.a40a56b1f259aa87ecc1.png",
+    "static/media/Prancheta_1.png": "/land-turbopro/static/media/Prancheta_1.d9f2f0d588667b7eb1d5.png",
+    "static/media/Prancheta_5.png": "/land-turbopro/static/media/Prancheta_5.46d2cd66f006b8e0fa60.png",
+    "static/media/Prancheta_6.png": "/land-turbopro/static/media/Prancheta_6.d1fab4eb8aec8e079259.png",
+    "static/media/Prancheta_8.png": "/land-turbopro/static/media/Prancheta_8.e7a393e88a9ce188c948.png",
+    "static/media/Prancheta_3.png": "/land-turbopro/static/media/Prancheta_3.3f924c27baefc0a4c595.png",
+    "static/media/OnlyLogoWhite.png": "/land-turbopro/static/media/OnlyLogoWhite.8a9e4998ae3848f700a5.png",
+    "static/media/whatsIcon.svg": "/land-turbopro/static/media/whatsIcon.6181e5cecd1a682846ba3e623621a869.svg",
+    "index.html": "/land-turbopro/index.html",
+    "main.43d4e584.css.map": "/land-turbopro/static/css/main.43d4e584.css.map",
+    "main.d8d6d461.js.map": "/land-turbopro/static/js/main.d8d6d461.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d4e584.css",
+    "static/js/main.d8d6d461.js"
+  ]
+}
