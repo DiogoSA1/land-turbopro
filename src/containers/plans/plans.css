@@ -1,0 +1,160 @@
+.plan-section {
+    display: flex;
+    text-align: center;
+    padding: 2rem;
+    flex-direction: column;
+}
+
+
+
+.tpro__footer-heading h2 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    text-align: center;
+    letter-spacing: 0.04em;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 3rem;
+}
+
+.plan-card {
+    border: 2px solid #ccc;
+    border-radius: 35px;
+    padding: 1rem;
+    width: 25%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#plano-1 {
+    background: var(--color-footer);
+    background: -moz-radial-gradient(circle at 30% -100%, #462b00 25%, rgba(76, 46, 0, 1) 85%, rgb(189, 113, 0) 100%);
+    background: -webkit-radial-gradient(circle at 30% -100%, #462b00 25%, rgba(76, 46, 0, 1) 85%, rgba(189, 113, 0, 1) 100%);
+    background: -o-radial-gradient(circle at 30% -100%, #462b00 25%, rgba(76, 46, 0, 1) 85%, rgba(189, 113, 0, 1) 100%);
+    background: -ms-radial-gradient(circle at 30% -100%, #462b00 25%, rgba(76, 46, 0, 1) 85%, rgba(189, 113, 0, 1) 100%);
+    background: radial-gradient(circle at 30% -100%, #462b00 25%, rgba(76, 46, 0, 1) 85%, rgba(189, 113, 0, 1) 100%);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.plan-card h3 {
+    color: #FFFFFF;
+    font-family: var(--font-family);
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin: 20px;
+}
+
+.plan-card span {
+    color: #838383;
+    font-family: var(--font-family);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.75em;
+    --container-widget-width: 87%;
+    --container-widget-flex-grow: 0;
+}
+
+.plan-price {
+    color: #FFFFFF;
+    font-family: var(--font-family);
+    font-size: 44px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.plan-features {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.plan-features li {
+    font-family: var(--font-family);
+    margin: 0.5rem 0;
+    font-size: 16px;
+    color: #ccc;
+    text-align: left;
+}
+
+.select-plan-button {
+    font-family: var(--font-family);
+    font-size: 16px;
+    font-weight: 500;
+    background-color: #1560BD00;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #e7cea9;
+    border-radius: 69px 69px 69px 69px;
+    padding: 20px 40px 20px 40px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.select-plan-button:hover {
+    background-color: #e69823;
+}
+
+@media screen and (max-width: 990px) {
+    .plan-section {
+        flex-direction: column;
+    }
+
+    .plans-container {
+        flex: 1 1;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+
+    .plan-card {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .plan-section {
+        text-align: center;
+        padding: 2rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .plan-section .gradient__text {
+        font-size: 45px;
+    }
+
+    .plans-container {
+        display: flex;
+        justify-content: space-around;
+        gap: 3rem;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .plan-card {
+        width: 100%;
+    }
+
+    .select-plan-button {
+        width: 80%;
+    }
+
+    .tpro__features-container__feature-title h1 {
+        font-size: 21px;
+        line-height: 22px;
+    }
+}
