@@ -16,8 +16,8 @@ const featuresData = [
     text: "Configure sua fila de atendimento para o setor que desejar, adicione quem serão os atendentes dessa fila e pronto, quando o cliente chamar, automaticamente será direcinado para as filas."
   },
   {
-    title: "CRM Kanban",
-    text: "Organize toda a sua base de clientes e contatos, faça a sua gestão, analise os relatórios, tudo isso com o nosso CRM Kanban."
+    title: "Kanban",
+    text: "Organize toda a sua base de clientes e contatos, faça a sua gestão, analise os relatórios, tudo isso com o nosso Kanban."
   }
 ]
 

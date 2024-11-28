@@ -7,19 +7,19 @@ const Plans = () => {
       name: 'Plano Básico',
       price: 'R$ 127/mês',
       from: 'R$ 197/mês',   
-      features: ['2 usuários por licença', '1 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Máximo de 2 filas', 'Envio de funis programados', 'Acesso ao CRM e CHAT GPT', 'Agendamentos de mensagem']
+      features: ['2 usuários por licença', '1 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Máximo de 2 filas', 'Envio de funis programados', 'Acesso ao CHAT GPT', 'Agendamentos de mensagem']
     },
     {
       name: 'Plano Pro',
       price: 'R$ 297/mês',
       from: 'R$ 397/mês',
-      features: ['6 usuários por licença', '2 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Máximo de 4 filas', 'Envio de funis programados', 'Acesso ao CRM e CHAT GPT', 'Agendamentos de mensagem']
+      features: ['6 usuários por licença', '2 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Máximo de 4 filas', 'Envio de funis programados', 'Acesso ao CHAT GPT', 'Agendamentos de mensagem']
     },
     {
       name: 'Plano Premium',
       price: 'R$ 397/mês',
       from: 'R$ 497/mês',
-      features: ['12 usuários por licença', '3 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Filas Ilimitadas', 'Envio de funis programados', 'Acesso ao CRM e CHAT GPT', 'Agendamentos de mensagem']
+      features: ['12 usuários por licença', '3 conexão com whatsapp', '*R$49,90 conexão extra', 'Acesso ao Kanban', 'Filas Ilimitadas', 'Envio de funis programados', 'Acesso ao CHAT GPT', 'Agendamentos de mensagem']
 
     },
   ];

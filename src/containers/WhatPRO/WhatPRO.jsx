@@ -14,7 +14,7 @@ const WhatPRO = () => {
       </div>  
       <div className="tpro__whattpro-container">
         <Feature title="Chatbots" text="Transforme a experiência do seu cliente com chatbots de atendimento inteligentes! Proporcionando respostas rápidas, atendimento 24/7 e integração perfeita com suas plataformas, nossos chatbots revolucionam a maneira como você se conecta com seu público."/>
-        <Feature title="TURBOPROO CRM" text="Eleve o relacionamento com seus clientes a um novo patamar com um sistema de CRM poderoso e intuitivo! Centralize todas as interações, personalize atendimentos e tome decisões estratégicas baseadas em dados precisos. Com um CRM eficiente, você não apenas melhora a gestão do seu pipeline de vendas, mas constrói conexões duradouras"/>
+        <Feature title="TypeBot" text="Eleve o relacionamento com seus clientes a um novo patamar com um sistema poderoso e intuitivo! Centralize todas as interações, personalize atendimentos e tome decisões estratégicas baseadas em dados precisos. Com um sistema eficiente, você não apenas melhora a gestão do seu pipeline de vendas, mas constrói conexões duradouras"/>
         <Feature title="Kanban" text="Maximize a produtividade e o fluxo de trabalho da sua equipe com a metodologia Kanban! Visualize tarefas, gerencie prioridades e acompanhe o progresso de projetos em tempo real, garantindo eficiência e flexibilidade. Com o Kanban, você transforma processos complexos em etapas claras e organizadas, mantendo todos alinhados e focados no que importa."/>
       </div>
     </div>

@@ -8,9 +8,9 @@ const Header = () => {
     <div className='tpro__header section__padding' id='home' >
       <div className="tpro__header-content">
 
-        <h1 className='gradient__text'>Vamos construir algo incrível com TurboPROO CRM</h1>
+        <h1 className='gradient__text'>Vamos construir algo incrível com TurboPROO</h1>
 
-        <p>Imagine uma plataforma que impulsiona suas vendas, otimiza sua gestão e transforma dados em decisões poderosas. Com o TurboPROO CRM, você não está apenas acompanhando seus processos, está criando uma nova realidade para seu negócio. Juntos, podemos levar sua empresa ao próximo nível. Está pronto para o futuro? Vamos fazer acontecer!"</p>
+        <p>Imagine uma plataforma que impulsiona suas vendas, otimiza sua gestão e transforma dados em decisões poderosas. Com o TurboPROO, você não está apenas acompanhando seus processos, está criando uma nova realidade para seu negócio. Juntos, podemos levar sua empresa ao próximo nível. Está pronto para o futuro? Vamos fazer acontecer!"</p>
 
         <div className="tpro__header-content__input">
           <input type="email" name="" id="" placeholder='Seu Email' />
