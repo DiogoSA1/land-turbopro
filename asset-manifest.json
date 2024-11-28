@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.43d4e584.css",
-    "main.js": "/static/js/main.b21ee31f.js",
+    "main.js": "/static/js/main.e01653ad.js",
     "static/media/Prancheta_2.png": "/static/media/Prancheta_2.5aff4b67a3ad21d1d0a1.png",
     "static/media/Prancheta_4.png": "/static/media/Prancheta_4.cb6e113114b85f92578e.png",
     "static/media/Prancheta_7.png": "/static/media/Prancheta_7.a40a56b1f259aa87ecc1.png",
@@ -14,10 +14,10 @@
     "static/media/whatsIcon.svg": "/static/media/whatsIcon.6181e5cecd1a682846ba3e623621a869.svg",
     "index.html": "/index.html",
     "main.43d4e584.css.map": "/static/css/main.43d4e584.css.map",
-    "main.b21ee31f.js.map": "/static/js/main.b21ee31f.js.map"
+    "main.e01653ad.js.map": "/static/js/main.e01653ad.js.map"
   },
   "entrypoints": [
     "static/css/main.43d4e584.css",
-    "static/js/main.b21ee31f.js"
+    "static/js/main.e01653ad.js"
   ]
 }
